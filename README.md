@@ -26,7 +26,7 @@
 
 | Frontend        | Backend         | Database     | API Architecture |
 |----------------|------------------|--------------|------------------|
-| —               | Spring Boot (MVC) | MySQL        | RESTful API      |
+| —               | Spring Boot     | PostgreSql   | RESTful API      |
 
 ---
 
@@ -71,7 +71,7 @@
 - Java 17+
 - Spring Boot
 - Maven
-- MySQL
+- PostgreSql
 - Postman (for testing)
 
 ### 🏗️ Configuration
